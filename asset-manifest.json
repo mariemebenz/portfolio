@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.aa421065.css",
+    "main.js": "/portfolio/static/js/main.552adf6c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/people-detection.png": "/portfolio/static/media/people-detection.6ac4955adca6a05bbac7.png",
+    "static/media/Benzha_Marieme_CV.pdf": "/portfolio/static/media/Benzha_Marieme_CV.2ac61de0ea9e76234eb0.pdf",
+    "static/media/travel-interface.png": "/portfolio/static/media/travel-interface.1ceb1befdf4008f865fe.png",
+    "static/media/minesafe_interface.png": "/portfolio/static/media/minesafe_interface.4f20bd0ab83cd6f02cb4.png",
+    "static/media/icon_dev.svg": "/portfolio/static/media/icon_dev.9b8aaed6c223e60de67ffe7e889e41e4.svg",
+    "static/media/chatbot-interface.png": "/portfolio/static/media/chatbot-interface.dbc94a4426994fa70b14.png",
+    "static/media/mobile-interface.png": "/portfolio/static/media/mobile-interface.79401108ab12cd2300f5.png",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/icon-home.png": "/portfolio/static/media/icon-home.e41613ce3d265f0940e4.png",
+    "static/media/stage_interface.png": "/portfolio/static/media/stage_interface.c3930cd7feac7516d71a.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.aa421065.css.map": "/portfolio/static/css/main.aa421065.css.map",
+    "main.552adf6c.js.map": "/portfolio/static/js/main.552adf6c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa421065.css",
+    "static/js/main.552adf6c.js"
+  ]
+}
